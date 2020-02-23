@@ -8,8 +8,9 @@
 </h5>
 
 
-<h3>Book</h3>
+<h3>Books</h3>
 
 <h5>
-  <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a>
+  <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a><br>
+  <a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a>
  </h5>
