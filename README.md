@@ -11,5 +11,5 @@
 <h3>Book</h3>
 
 <h5>
-  <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learningn</a>
+  <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a>
  </h5>
