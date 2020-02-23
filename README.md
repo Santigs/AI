@@ -1,4 +1,4 @@
-# Testing AI models using Python scikit learn
+# Testing AI models using Python
 
 Here's the links I have used so far:
 
