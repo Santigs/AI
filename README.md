@@ -11,6 +11,6 @@
 <h3>Books</h3>
 
 <h5>
-  <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a><br>
+  <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a> also with <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/"> videos</a> from every chapter of the book. <br>
   <a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a>
  </h5>
