@@ -1,4 +1,4 @@
-<h1>Testing AI models using Python</h1>
+<h1>Testing Machine Learning AI models using Python</h1>
 
 
 <h3>Videos</h3>
@@ -19,6 +19,15 @@
 
 <h3>Articles</h3>
 <h5>
-<a href="https://www.toptal.com/machine-learning/supervised-machine-learning-algorithms">Supervised Machine Learning Algorithms.</a>
+  <a href="https://www.toptal.com/machine-learning/supervised-machine-learning-algorithms">Supervised Machine Learning Algorithms.</a>
 </h5>
+
+<h3>Courses</h3>
+<h5>
+  <a href="https://www.coursera.org/learn/machine-learning">Standford Machine Learning.</a><br>
+  <a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Udacity Introduction to Tensor Flow for Deep Learning.</a>
+</h5>
+
+
+  
   
