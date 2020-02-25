@@ -13,7 +13,8 @@
 
 <h5>
   <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a> also with <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/"> videos</a> from every chapter of the book. <br>
-  <a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a>
+  <a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a><br>
+  <a href="https://www.amazon.es/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/">Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow</a><br>
  </h5>
 
 
@@ -25,7 +26,8 @@
 <h3>Courses</h3>
 <h5>
   <a href="https://www.coursera.org/learn/machine-learning">Standford Machine Learning.</a><br>
-  <a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Udacity Introduction to Tensor Flow for Deep Learning.</a>
+  <a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Udacity Introduction to Tensor Flow for Deep Learning.</a><br>
+  <a href="https://developers.google.com/machine-learning/crash-course">Google Machine Learning Crash Course.</a><br>
 </h5>
 
 
