@@ -1,4 +1,4 @@
-<h1>Testing Machine Learning AI models using Python</h1>
+<h1>AI Machine Learning ressources</h1>
 
 
 <h3>Videos</h3>
