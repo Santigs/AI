@@ -30,6 +30,11 @@
   <a href="https://developers.google.com/machine-learning/crash-course">Google Machine Learning Crash Course.</a><br>
 </h5>
 
+<h3>Software</h3>
+<h5>
+  <a href="https://github.com/SE-ML/awesome-seml/blob/master/readme.md#data-management">Awsome software for Machine Learning</a><br>
+ 
+</h5>
 
   
   
