@@ -12,6 +12,9 @@
 <h3>Books</h3>
 
 <h5>
+  <a href="https://greenteapress.com/wp/think-stats-2e/">Think Stats</a><br>
+  <a href="https://greenteapress.com/wp/think-bayes//>Think Bayes. Bayesian Statistics Made Simple</a><br>
+  <a href="https://greenteapress.com/wp/think-python/>Think Python</a><br>         
   <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a> also with <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/"> videos</a> from every chapter of the book. <br>
   <a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a><br>
   <a href="https://www.amazon.es/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/">Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow</a><br>
