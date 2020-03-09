@@ -27,6 +27,8 @@
 
 <h3>Articles</h3>
 <h5>
+  <a href="https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/#0">
+Learn TensorFlow 1: The "Hello World" of machine learning.</a><br>
   <a href="https://www.toptal.com/machine-learning/supervised-machine-learning-algorithms">Supervised Machine Learning Algorithms.</a><br>
   <a href="https://colah.github.io/posts/2015-08-Understanding-LSTMs/">Understanding LSTM Networks.</a><br>
   <a href="https://towardsdatascience.com/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python-6ceee9c6c651">Time Series Forecasting with LSTMs using TensorFlow 2 and Keras in Python.</a><br>
