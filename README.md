@@ -5,9 +5,8 @@
 
 <h5>
   <a href="https://d3c33hcgiwev3.cloudfront.net/b-HZAmpQEeiEwg4WmF3VaA.processed/full/360p/index.webm?Expires=1582675200&Signature=Ou5tlzDhd5BvaafryDn7MFOz2RUlHqAKl1X8n3VCkgFhCMKM6bYSxOjHqwDP5pXTHr0MmBbweepv0287uhh3uUItKSZdXHMtwpVFDYOjg--qQ27aRyEZd4Dg~CenW3s3PK5MpYX9zOp8E1GeMFoJTSSE0kCt6UV8d2f8fUN5FLo_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A">Supervised vs Unsupervised Learning Models</a><br>
-  <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Neural Networks Model explanation from 3Blue1Borwn</a><br>
-  <a href="https://www.youtube.com/watch?v=tPYj3fFJGjk">Tensor Flow 2.0 Complete Course from Tim Ruscica</a><br>
-  <a href="https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL">Keras Deep Learning Neural Networks Course from Deeplizard</a>
+  <a href="https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi">Neural Networks Model explanation from 3Blue1Borwn</a>
+  
 </h5>
 
 
@@ -32,9 +31,12 @@
 
 <h3>Courses</h3>
 <h5>
+  <a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A">Machine Learning with Scikit-learn.</a><br>
   <a href="https://www.coursera.org/learn/machine-learning">Standford Machine Learning.</a><br>
   <a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Udacity Introduction to Tensor Flow for Deep Learning.</a><br>
   <a href="https://developers.google.com/machine-learning/crash-course">Google Machine Learning Crash Course.</a><br>
+  <a href="https://www.youtube.com/watch?v=tPYj3fFJGjk">Tensor Flow 2.0 Complete Course from Tim Ruscica</a><br>
+  <a href="https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL">Keras Deep Learning Neural Networks Course from Deeplizard</a>
 </h5>
 
 <h3>Other</h3>
