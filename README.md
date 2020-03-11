@@ -27,6 +27,8 @@
 
 <h3>Articles</h3>
 <h5>
+  <a href="https://vas3k.com/blog/machine_learning/?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_73">
+Machine Learning for Everyone.</a><br>
   <a href="https://codelabs.developers.google.com/codelabs/tensorflow-lab1-helloworld/#0">
 Learn TensorFlow 1: The "Hello World" of machine learning.</a><br>
   <a href="https://www.toptal.com/machine-learning/supervised-machine-learning-algorithms">Supervised Machine Learning Algorithms.</a><br>
