@@ -19,6 +19,7 @@
   <a href="https://greenteapress.com/wp/think-bayes/">Think Bayes. Bayesian Statistics Made Simple</a><br>
   <a href="https://greenteapress.com/wp/think-python-2e/">Think Python</a><br>         
   <a href="https://torres.ai/deep-learning-inteligencia-artificial-keras#Indice_de_contenidos_pdf">DEEP LEARNING Introducción práctica con Keras de Jordi Torres</a><br>
+  <a href="http://www.deeplearningbook.org/">Deep Learning. MIT press</a><br>
   <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a> also with <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/"> videos</a> from every chapter of the book. <br>
   <a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a><br>
   <a href="https://www.amazon.es/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/">Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow</a><br>
