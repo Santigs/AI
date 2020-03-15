@@ -42,6 +42,7 @@ Learn TensorFlow 1: The "Hello World" of machine learning.</a><br>
   <a href="https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A">Machine Learning with Scikit-learn.</a><br>
   <a href="https://www.coursera.org/learn/machine-learning">Standford Machine Learning.</a><br>
   <a href="https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187">Udacity Introduction to Tensor Flow for Deep Learning.</a><br>
+  <a href="https://developers.google.com/machine-learning/problem-framing/">Google Introduction to Machine Learning Problem Framing.</a><br>
   <a href="https://developers.google.com/machine-learning/crash-course">Google Machine Learning Crash Course.</a><br>
   <a href="https://www.youtube.com/watch?v=tPYj3fFJGjk">Tensor Flow 2.0 Complete Course from Tim Ruscica</a><br>
   <a href="https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL">Keras Deep Learning Neural Networks Course from Deeplizard</a>
