@@ -50,6 +50,11 @@ Learn TensorFlow 1: The "Hello World" of machine learning.</a><br>
   <a href="https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL">Keras Deep Learning Neural Networks Course from Deeplizard</a>
 </h5>
 
+<h3>Software</h3>
+  <a href="https://www.cs.waikato.ac.nz/ml/weka/">Weka</a><br>
+  <a href="https://bigml.com/">BigML</a><br>
+<h5>
+
 <h3>Other</h3>
 <h5>
   <a href="https://machinelearningmastery.com/">Machine Learning Mastery</a><br>
@@ -59,7 +64,8 @@ Learn TensorFlow 1: The "Hello World" of machine learning.</a><br>
   <a href="https://www.aprendemachinelearning.com/">Aprende Machine Learning</a><br>
   <a href="https://www.ryansleeper.com/">Ryan Sleeper Tableau</a><br>
  
-</h5>
+<h5>
+  
 </h5>
 
   
