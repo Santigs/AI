@@ -57,6 +57,7 @@ Learn TensorFlow 1: The "Hello World" of machine learning.</a><br>
   <a href="https://www.youtube.com/user/joshstarmer/playlists">StatQuest videos</a><br>
   <a href="https://pochocosta.com/">Podcast de Inteligencia Artificial</a><br>
   <a href="https://www.aprendemachinelearning.com/">Aprende Machine Learning</a><br>
+  <a href="https://www.ryansleeper.com/">Ryan Sleeper Tableau</a><br>
  
 </h5>
 </h5>
