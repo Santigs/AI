@@ -20,10 +20,11 @@
   <a href="https://greenteapress.com/wp/think-python-2e/">Think Python</a><br>         
   <a href="https://torres.ai/deep-learning-inteligencia-artificial-keras#Indice_de_contenidos_pdf">DEEP LEARNING Introducción práctica con Keras de Jordi Torres</a><br>
   <a href="https://github.com/zsdonghao/deep-learning-book">Deep Learning. MIT press</a><br>
-  <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a> also with <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/"> videos</a> from every chapter of the book. <br>
+  <a href="http://faculty.marshall.usc.edu/gareth-james/ISL/index.html">An Introduction to Statistical Learning</a> also with   <a href="https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/"> videos</a> from every chapter of the book. <br>
   <a href="https://mitpress.ublish.com/ereader/7093/?preview#page/Cover/">Foundations of Machine Learning - MIT Press</a><br>
   <a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a><br>
   <a href="https://www.amazon.es/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/">Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow</a><br>
+  <a href="https://otexts.com/fpp2/">Forecasting: Principles and Practice</a><br>
  </h5>
 
 
